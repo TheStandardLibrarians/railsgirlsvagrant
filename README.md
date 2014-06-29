@@ -2,11 +2,11 @@
 
 ## Step One
 
-Download (VirtualBox)[https://www.virtualbox.org/wiki/Downloads] and install.
+Download [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and install.
 
 ## Step Two
 
-Download (Vagrant)[http://www.vagrantup.com/downloads] and install.
+Download [Vagrant](http://www.vagrantup.com/downloads) and install.
 
 ## Step Three
 
